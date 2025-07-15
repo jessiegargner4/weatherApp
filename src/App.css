@@ -5,3 +5,18 @@
   text-align: center;
 }
 
+.mobileDisplayContainer {
+  padding: 20px;
+}
+
+.weatherIconContainer {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.weatherIconContainer img {
+  width: 80px;
+  height: 80px;
+  object-fit: contain;
+}
