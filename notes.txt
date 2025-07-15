@@ -1,0 +1,5 @@
+07/15/2025
+- Finish the conditionals for rendering the weather icons.
+- Condense the data being shown.
+- Style for mobile first and then add in for desktop.
+- Add the background image of weather based off of current data.
